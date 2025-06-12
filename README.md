@@ -1,3 +1,3 @@
 # UniMF
 
-Code organizing in progress...
+Code organization is in progress and will be released upon acceptance.

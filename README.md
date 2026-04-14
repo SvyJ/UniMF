@@ -1,4 +1,4 @@
-# [Resilient Multimodal Industrial Surface Defect Detection with Uncertain Sensors Availability](https://svyj.github.io/MISDD-MM/)
+# [Unified Multimodal Industrial Anomaly Detection via Few Normal Samples](https://github.com/SvyJ/UniMF)
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.13.1-EE4C2C.svg?style=for-the-badge&logo=pytorch)](https://pytorch.org/get-started/locally/)
 [![Python](https://img.shields.io/badge/python-3.9-blue?style=for-the-badge)](https://www.python.org)

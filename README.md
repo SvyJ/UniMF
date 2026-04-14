@@ -12,8 +12,9 @@
 
 <hr style="border: 2px solid gray;"></hr>
 
-## Overview of UniVAD
-![](images/unimf.png)
+## Overview of UniMF
+![Training and Inference Phases](images/framework.png)
+![UniMF](images/unimf.png)
 
 ## Download Dataset
 

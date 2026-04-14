@@ -45,4 +45,4 @@ bash test.sh
 
 ## Thanks
 
-Our repository is built on excellent works include  [PromptAD](https://github.com/FuNz-0/PromptAD), [CLIPAD](https://github.com/ByChelsea/CLIP-AD), and [WinCLIP](https://github.com/caoyunkang/WinClip).
+Our repository is built on excellent works include [IIPAD](https://github.com/Vanssssry/One-For-All-Few-Shot-Anomaly-Detection), [PromptAD](https://github.com/FuNz-0/PromptAD), [CLIPAD](https://github.com/ByChelsea/CLIP-AD), and [WinCLIP](https://github.com/caoyunkang/WinClip).

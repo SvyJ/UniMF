@@ -13,8 +13,12 @@
 <hr style="border: 2px solid gray;"></hr>
 
 ## Overview of UniMF
-![Training and Inference Phases](images/framework.png)
-![UniMF](images/unimf.png)
+
+![](images/framework.png)
+
+<hr style="border: 2px solid gray;"></hr>
+
+![](images/unimf.png)
 
 ## Download Dataset
 
